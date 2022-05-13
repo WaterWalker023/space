@@ -1,5 +1,5 @@
 
-=== Thu May 12 13:57:38 2022
+=== Fri May 13 09:26:57 2022
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -44,3 +44,7 @@ The following packages were added:
   com.unity.textmeshpro@3.0.6
   com.unity.timeline@1.4.8
   com.unity.ugui@1.0.0
+The following packages were updated:
+  com.unity.2d.animation from version 5.0.1 to 5.0.7
+  com.unity.2d.psdimporter from version 4.0.1 to 4.1.0
+  com.unity.2d.spriteshape from version 5.0.1 to 5.1.4
