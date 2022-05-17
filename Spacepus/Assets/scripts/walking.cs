@@ -41,6 +41,7 @@ public class walking : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Instantiate(bullet);
+            Instantiate(rots);
         }
         if (hp == 0)
         {
@@ -48,7 +49,7 @@ public class walking : MonoBehaviour
         }
 
         //test code
-        if (Input.GetKeyDown(KeyCode.O))
+        if (Input.GetKey(KeyCode.O))
         {
             Instantiate(rots);
         }
