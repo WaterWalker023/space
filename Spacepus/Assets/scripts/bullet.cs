@@ -23,7 +23,7 @@ public class bullet : MonoBehaviour
     {
         if (collision.collider.name == "rots(Clone)")
         {
-            Destroy(gameObject);
+            Destroy(gameObject,0.5f);
         }
     }
 }
